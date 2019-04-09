@@ -37,7 +37,7 @@ public class DingdingServiceImpl implements DingdingService {
 
     private AbstractBuild build;
 
-    private static final String apiUrl = "https://oapi.dingtalk.com/robot/send?access_token=";
+    private static final String apiUrl = "https://oapi.dingtalk.com/robot/send?access_token=ef9e279543f74f0ed5ccd078a8c125186b3d4390397b0214aba6f3d1900ae10a";
 
     private String api;
 
